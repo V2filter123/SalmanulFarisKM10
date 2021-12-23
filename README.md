@@ -1,4 +1,4 @@
-### [LuciferMoringstar_Robot](https://telegram.dog/LuciferMoringstar_Robot)
+### [Salman_Farisx_Bot](https://telegram.dog/Salman_Farisx_Bot)
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/PR0FESS0R-99/LuciferMoringstar_Robot?style=social)
 <img src="https://img.shields.io/github/forks/PR0FESS0R-99/LuciferMoringstar_Robot?style=social"></img>
@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/V2filter123/SalmanulFarisKM10)
 
 
 #### Hard Way

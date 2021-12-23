@@ -20,7 +20,7 @@
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/V2filter123/SalmanulFarisKM10)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/V2filter123/SalmanulFarisKM10)
 
 
 #### Hard Way
